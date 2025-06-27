@@ -1,1 +1,1 @@
-This is a project for Smart India Hackathon (SIH).
+This is a Aribnb clone 
